@@ -16,5 +16,5 @@
     ```
 
 # References
-https://leafo.net/guides/customizing-the-luarocks-tree.html
-https://www.tutorialspoint.com/lua/lua_modules.htm
+* https://leafo.net/guides/customizing-the-luarocks-tree.html
+* https://www.tutorialspoint.com/lua/lua_modules.htm
