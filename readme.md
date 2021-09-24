@@ -1,7 +1,7 @@
 # How to use Lua `rocks` locally
 1. Install required module using `luarocks` with `--tree` switch (in this case module `luaposix` is installed)
     ```bash
-    $ luarocks install -tree posix luaposix
+    $ luarocks install --tree posix luaposix
     ```
     Alternative approach:
     ```bash
